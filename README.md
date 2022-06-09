@@ -1,3 +1,3 @@
 # D2Academy | Assets
 
-  - "Just Assets".
+  Assets .. Assets everywhere.
