@@ -1,2 +1,3 @@
-# d2academy-assets
-Assets - just assets.
+# D2Academy | Assets
+
+  - "Just Assets".
