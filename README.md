@@ -1,3 +1,3 @@
-# D2Academy | Assets
+# (PO)KER (DA) (PE)LADA | CHATBOT
 
-  Assets .. Assets everywhere.
+  Application built with the assistance of telegram's chatbot SDK (TeleBot)
