@@ -1,3 +1,3 @@
-# (Po)ker (Da) (Pe)lada | Bot
+# Vote Review API
 
-  Application built with the assistance of telegram's chatbot SDK (TeleBot)
+  .. vê se confere esse voto ae .. talkei ?!
